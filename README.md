@@ -1,6 +1,6 @@
 # 8WeekSQLChallenge
 
-This repository contains the solution for the 8 case studies in #8WeekSQLChallenge!The 8 Week SQL Challenge is produced by Danny Ma.
+This repository contains the solution for all 8 case studies within the #8WeekSQLChallenge! Danny Ma produced The 8-Week SQL Challenge.
 
 ## Challenge case studies
 * 🍜[Case Study #1 - Danny's Diner]
